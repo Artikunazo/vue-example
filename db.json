@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Stylish Wireless Headphones",
+      "price": 129.99,
+      "image": "https://via.placeholder.com/300x300.png?text=Headphones"
+    },
+    {
+      "id": 2,
+      "name": "Modern Smartwatch",
+      "price": 249.50,
+      "image": "https://via.placeholder.com/300x300.png?text=Smartwatch"
+    },
+    {
+      "id": 3,
+      "name": "Ergonomic Mechanical Keyboard",
+      "price": 89.00,
+      "image": "https://via.placeholder.com/300x300.png?text=Keyboard"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra-HD Monitor",
+      "price": 499.99,
+      "image": "https://via.placeholder.com/300x300.png?text=Monitor"
+    },
+    {
+      "id": 5,
+      "name": "Portable Power Bank",
+      "price": 45.00,
+      "image": "https://via.placeholder.com/300x300.png?text=Power+Bank"
+    },
+    {
+      "id": 6,
+      "name": "Gaming Mouse",
+      "price": 65.50,
+      "image": "https://via.placeholder.com/300x300.png?text=Mouse"
+    }
+  ]
+}
